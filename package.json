@@ -1,0 +1,48 @@
+{
+  "name": "quiaid",
+  "version": "1.0.0",
+  "description": "List of getter/setter properties for JavaScript types",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbbigailGoldner/quiaid.git"
+  },
+  "author": "SelinaWillms",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && node test.js",
+    "generate": "node generate.js"
+  },
+  "main": "get-set-props.json",
+  "files": [
+    "get-set-props.json"
+  ],
+  "keywords": [
+    "js",
+    "molestias",
+    "ecmascript",
+    "dolorum",
+    "types",
+    "type",
+    "data",
+    "sit",
+    "quia",
+    "props",
+    "properties",
+    "fugit",
+    "list",
+    "libero",
+    "est"
+  ],
+  "devDependencies": {
+    "ava": "0.0.4",
+    "js-types": "^1.0.0",
+    "xo": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/AbbigailGoldner/quiaid.git/issues"
+  },
+  "homepage": "https://github.com/AbbigailGoldner/quiaid.git"
+}
